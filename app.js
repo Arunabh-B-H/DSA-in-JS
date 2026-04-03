@@ -1,1 +1,6 @@
-const y = 3
+//Sum of two integers
+
+let a = 5;
+let b = 10;
+let sum = a + b;
+console.log(sum);
